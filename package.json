@@ -1,0 +1,23 @@
+{
+  "name": "stock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshinbo/stock.git"
+  },
+  "author": "yoshinbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshinbo/stock/issues"
+  },
+  "homepage": "https://github.com/yoshinbo/stock",
+  "dependencies": {
+    "cheerio-httpcli": "^0.3.0",
+    "iconv-lite": "^0.4.6"
+  }
+}
